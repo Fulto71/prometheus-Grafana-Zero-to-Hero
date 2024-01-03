@@ -21,3 +21,4 @@ kubectl apply -f https://raw.githubusercontent.com/rancher/local-path-provisione
 
 `kubectl expose service grafana — type=NodePort — target-port=3000 — name=grafana-ext`
 
+315
